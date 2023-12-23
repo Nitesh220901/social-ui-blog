@@ -1,0 +1,12 @@
+css have 3 types
+1. absolute units - px,cm,mm etc (use px if want fix size)
+
+2. percentage units - are mainly used for width and easy to understand .
+   -> because it is relative to their parents (excepts on height    where things get weird)
+   ->percentage width k sath use karo acha h 
+
+3. relative units- em and rem
+
+
+
+text align ->  ye apne parent k respect me center karta h 
